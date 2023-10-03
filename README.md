@@ -2,4 +2,4 @@
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/jkjgzn)
 
-![alt text](./img/main page.png)
+![Main Page](https://raw.githubusercontent.com/RodolfoAndrade/Angular-Example/main/img/main%20page.png)
